@@ -14,7 +14,7 @@
 ### 🚀 Sobre Mim
 Desenvolvedor Full-Stack apaixonado por construir soluções robustas, escaláveis e eficientes de ponta a ponta. Atualmente focado e atuando no ecossistema **Java (Spring Boot)**, com sólida bagagem prática em backend utilizando **TypeScript / JavaScript (Node.js e Nest.js)**, **PHP (Laravel)**, **C# (.NET)** e **Python (Flask)**, além de interfaces modernas com **Vue.js e React**.
 
-Focado em qualidade de código (**Clean Code** & **SOLID**), arquitetura orientada a eventos com **Apache Kafka**, automação de processos via **n8n** e otimização de bancos de dados relacionais.
+Focado em qualidade de código (**Clean Code** & **SOLID**), arquitetura orientada a eventos e mensageria com **Apache Kafka** e **RabbitMQ**, automação de processos via **n8n** e otimização de bancos de dados relacionais.
 
 - 🗣️ **Inglês Básico** (focado em leitura técnica e documentação).
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (Previsão de Conclusão: 06/2027).
@@ -69,6 +69,7 @@ Focado em qualidade de código (**Clean Code** & **SOLID**), arquitetura orienta
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-F66000?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
